@@ -7,6 +7,8 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
 </div>
 
+![zoom-clone](https://github.com/mirkozlatunic/zoom-clone-app/assets/110959892/64fc3a0d-9a8f-450b-b5a5-d396c5bcb490)
+
 <video src="https://github.com/mirkozlatunic/zoom-clone-app/assets/110959892/4d888094-d216-4d2c-810d-67ef25b2d8ba" width="500"/>
 
 </div>
