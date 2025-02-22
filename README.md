@@ -19,7 +19,8 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
-5. 🛠️ [Improvements Ideas](#improvements)
+5. 🚀 [Home Page](#home-page)
+6. 🛠️ [Improvements Ideas](#improvements)
 
 Built using Next.js and TypeScript, this project replicates Zoom, a popular video conferencing tool. Users can securely log in, create meetings, and access various meeting functionalities, such as screen sharing, recording, and managing participants.
 
@@ -109,6 +110,10 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
+
+## <a name="home-page">🚀 Home Page</a>
+
+- [Home Page](https://zoom-clone-app-pink.vercel.app/)
 
 ## <a name="improvements">🛠️ Improvements Ideas</a>
 
